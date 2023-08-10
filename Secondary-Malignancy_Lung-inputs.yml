@@ -1,0 +1,15 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/secondary-malignant-neoplasm-lung-secondary-malignancy_lung---primary.py
+inputModule3:
+  class: File
+  path: python/secondary-lung-secondary-malignancy_lung---primary.py
+inputModule4:
+  class: File
+  path: python/secondary-malignant-neoplasm-lung-secondary-malignancy_lung---secondary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
